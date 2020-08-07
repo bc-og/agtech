@@ -1,6 +1,5 @@
 from flask import Flask, request
 import numpy as np
-import tensorflow
 from keras.models import load_model
 
 
